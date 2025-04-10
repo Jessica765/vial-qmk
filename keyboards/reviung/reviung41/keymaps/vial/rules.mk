@@ -11,3 +11,8 @@ else
 	# Enable Mouse Keys when when not using a ProMicro as there will be space:
 	MOUSEKEY_ENABLE = yes
 endif
+
+MAGIC_ENABLE = no
+GRAVE_ESC_ENABLE = no
+SPACE_CADET_ENABLE = no
+COMMAND_ENABLE = no
